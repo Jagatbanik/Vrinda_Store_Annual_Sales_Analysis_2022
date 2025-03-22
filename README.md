@@ -1,5 +1,6 @@
-# Charulata_Annual_Sales_Analysis
-Charulata Store: Interactive Excel Dashboard
+# Charulata Store Annual Sales Analytics
+
+# Charulata Store: Interactive Excel Dashboard
 
 About the Project
 
