@@ -1,8 +1,6 @@
 # Charulata Store Annual Sales Analytics
 
-# Charulata Store: Interactive Excel Dashboard
-
-About the Project
+*About the Project*
 
 The owner of Charulata Store wanted a simple and clear sales report for 2022 to better understand customer behavior and improve sales. To help them, I created an interactive Excel dashboard that visually presents key business insights in an easy-to-understand way.
 
