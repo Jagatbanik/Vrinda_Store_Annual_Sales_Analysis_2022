@@ -1,8 +1,8 @@
-# Charulata Store Annual Sales Analytics 2022
+# Vrinda Store Annual Sales Analytics 2022
 
 *About the Project*
 
-The owner of Charulata Store wanted a simple and clear sales report for 2022 to better understand customer behavior and improve sales. To help them, I created an interactive Excel dashboard that visually presents key business insights in an easy-to-understand way.
+The owner of Vrinda Store wanted a simple and clear sales report for 2022 to better understand customer behavior and improve sales. To help them, I created an interactive Excel dashboard that visually presents key business insights in an easy-to-understand way.
 
 What This Dashboard Shows:
 
@@ -30,7 +30,7 @@ What I Did:
 
 Tools & Skills Used:
 
-Microsoft Excel – Pivot Tables, Charts, Data Cleaning, and Formatting.
+Microsoft Excel – Pivot Tables, Pivot Charts, Data Cleaning & Processing and Formatting.
 
 Data Analysis & Visualization – Turning raw data into meaningful insights.
 
